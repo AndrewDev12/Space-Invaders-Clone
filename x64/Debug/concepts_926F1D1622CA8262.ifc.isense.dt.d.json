@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\concepts",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xkeycheck.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime_new.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\type_traits",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\type_traits_6CB34F24CF207AE1.ifc.dt"
+            },
+            {
+                "Header": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstddef",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\cstddef_D8C7F811E24F3EF0.ifc.dt"
+            },
+            {
+                "Header": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xtr1common",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\xtr1common_6673E6C9E0B39B4B.ifc.dt"
+            },
+            {
+                "Header": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdint",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\cstdint_686CE511A2BD7EFA.ifc.dt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\RNG.obj",
+            "outputs": [
+                "x64\\Debug\\RNG.hpp_AF0A0F6BC4867D56.ifc.dt.module.json",
+                "x64\\Debug\\RNG.hpp_AF0A0F6BC4867D56.ifc.dt.d.json",
+                "x64\\Debug\\RNG.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\src\\RNG.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\src\\rng.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

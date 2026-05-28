@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\intrin0.inl.obj",
+            "outputs": [
+                ".\\build\\intermediates\\intrin0.inl.h_C824CD4B18B426EE.ifc.dt.module.json",
+                ".\\build\\intermediates\\intrin0.inl.h_C824CD4B18B426EE.ifc.dt.d.json",
+                ".\\build\\intermediates\\intrin0.inl.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\intrin0.inl.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\intrin0.inl.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

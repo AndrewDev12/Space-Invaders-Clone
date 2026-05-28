@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdio.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstdio_D367870C662F861D.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstdio_D367870C662F861D.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstdio.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cstdio",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdio",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

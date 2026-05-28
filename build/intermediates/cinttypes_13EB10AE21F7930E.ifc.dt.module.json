@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cinttypes.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cinttypes_13EB10AE21F7930E.ifc.dt.module.json",
+                ".\\build\\intermediates\\cinttypes_13EB10AE21F7930E.ifc.dt.d.json",
+                ".\\build\\intermediates\\cinttypes.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cinttypes",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cinttypes",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdint",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdint",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

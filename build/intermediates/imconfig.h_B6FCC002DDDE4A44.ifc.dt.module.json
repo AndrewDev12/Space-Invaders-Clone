@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\imconfig.obj",
+            "outputs": [
+                ".\\build\\intermediates\\imconfig.h_B6FCC002DDDE4A44.ifc.dt.module.json",
+                ".\\build\\intermediates\\imconfig.h_B6FCC002DDDE4A44.ifc.dt.d.json",
+                ".\\build\\intermediates\\imconfig.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\imgui\\imconfig.h",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\imgui\\imconfig.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

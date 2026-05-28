@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cfloat.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cfloat_91532010182DA70A.ifc.dt.module.json",
+                ".\\build\\intermediates\\cfloat_91532010182DA70A.ifc.dt.d.json",
+                ".\\build\\intermediates\\cfloat.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cfloat",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cfloat",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_platform_defines.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_platform_defines.h_61EAF097E1ACEE65.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_platform_defines.h_61EAF097E1ACEE65.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_platform_defines.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_platform_defines.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_platform_defines.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xcharconv_tables.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xcharconv_tables.h_40E80447C0C6294B.ifc.dt.module.json",
+                ".\\build\\intermediates\\xcharconv_tables.h_40E80447C0C6294B.ifc.dt.d.json",
+                ".\\build\\intermediates\\xcharconv_tables.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\xcharconv_tables.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xcharconv_tables.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdint",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\cstdint",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

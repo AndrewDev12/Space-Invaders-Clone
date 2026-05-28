@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\vadefs.obj",
+            "outputs": [
+                ".\\build\\intermediates\\vadefs.h_85FEFCB34DFC2CD4.ifc.dt.module.json",
+                ".\\build\\intermediates\\vadefs.h_85FEFCB34DFC2CD4.ifc.dt.d.json",
+                ".\\build\\intermediates\\vadefs.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\vadefs.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\vadefs.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

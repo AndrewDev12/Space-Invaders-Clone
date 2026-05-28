@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ctime.obj",
+            "outputs": [
+                "x64\\Debug\\ctime_B23A2FAD56AD0C29.ifc.dt.module.json",
+                "x64\\Debug\\ctime_B23A2FAD56AD0C29.ifc.dt.d.json",
+                "x64\\Debug\\ctime.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\ctime",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\ctime",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

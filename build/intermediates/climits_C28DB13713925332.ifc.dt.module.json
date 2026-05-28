@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\climits.obj",
+            "outputs": [
+                ".\\build\\intermediates\\climits_C28DB13713925332.ifc.dt.module.json",
+                ".\\build\\intermediates\\climits_C28DB13713925332.ifc.dt.d.json",
+                ".\\build\\intermediates\\climits.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\climits",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\climits",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

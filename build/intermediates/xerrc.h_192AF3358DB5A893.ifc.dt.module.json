@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xerrc.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xerrc.h_192AF3358DB5A893.ifc.dt.module.json",
+                ".\\build\\intermediates\\xerrc.h_192AF3358DB5A893.ifc.dt.d.json",
+                ".\\build\\intermediates\\xerrc.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\xerrc.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xerrc.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

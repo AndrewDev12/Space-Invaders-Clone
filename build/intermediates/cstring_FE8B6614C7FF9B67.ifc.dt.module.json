@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstring.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstring_FE8B6614C7FF9B67.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstring_FE8B6614C7FF9B67.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstring.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cstring",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstring",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

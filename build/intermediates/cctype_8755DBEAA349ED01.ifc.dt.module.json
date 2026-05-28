@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cctype.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cctype_8755DBEAA349ED01.ifc.dt.module.json",
+                ".\\build\\intermediates\\cctype_8755DBEAA349ED01.ifc.dt.d.json",
+                ".\\build\\intermediates\\cctype.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cctype",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cctype",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

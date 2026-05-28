@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\imstb_rectpack.obj",
+            "outputs": [
+                ".\\build\\intermediates\\imstb_rectpack.h_AD7A4E31D820F755.ifc.dt.module.json",
+                ".\\build\\intermediates\\imstb_rectpack.h_AD7A4E31D820F755.ifc.dt.d.json",
+                ".\\build\\intermediates\\imstb_rectpack.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\imgui\\imstb_rectpack.h",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\imgui\\imstb_rectpack.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

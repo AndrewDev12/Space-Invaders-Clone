@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cwchar.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cwchar_5910C14C727BC1BB.ifc.dt.module.json",
+                ".\\build\\intermediates\\cwchar_5910C14C727BC1BB.ifc.dt.d.json",
+                ".\\build\\intermediates\\cwchar.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cwchar",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cwchar",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdio",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdio",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

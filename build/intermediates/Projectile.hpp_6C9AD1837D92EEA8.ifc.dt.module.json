@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\Projectile.obj",
+            "outputs": [
+                ".\\build\\intermediates\\Projectile.hpp_6C9AD1837D92EEA8.ifc.dt.module.json",
+                ".\\build\\intermediates\\Projectile.hpp_6C9AD1837D92EEA8.ifc.dt.d.json",
+                ".\\build\\intermediates\\Projectile.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\Projectile.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\projectile.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

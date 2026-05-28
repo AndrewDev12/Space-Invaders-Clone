@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xtr1common_7RO8ZKVMF1IRMJQB.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\vc145.pdb",
+                ".\\build\\intermediates\\xtr1common_7RO8ZKVMF1IRMJQB.module.json",
+                ".\\build\\intermediates\\xtr1common_7RO8ZKVMF1IRMJQB.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xtr1common",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xtr1common",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

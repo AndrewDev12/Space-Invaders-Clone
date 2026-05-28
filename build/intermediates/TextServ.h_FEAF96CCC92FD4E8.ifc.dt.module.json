@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\TextServ.obj",
+            "outputs": [
+                ".\\build\\intermediates\\TextServ.h_FEAF96CCC92FD4E8.ifc.dt.module.json",
+                ".\\build\\intermediates\\TextServ.h_FEAF96CCC92FD4E8.ifc.dt.d.json",
+                ".\\build\\intermediates\\TextServ.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\TextServ.h",
+                    "source-path": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\textserv.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

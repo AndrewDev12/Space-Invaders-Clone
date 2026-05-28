@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xfacet.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xfacet_B64F8CDB37E72C78.ifc.dt.module.json",
+                ".\\build\\intermediates\\xfacet_B64F8CDB37E72C78.ifc.dt.d.json",
+                ".\\build\\intermediates\\xfacet.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\xfacet",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xfacet",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "__msvc_doom_core.hpp",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\__msvc_doom_core.hpp",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

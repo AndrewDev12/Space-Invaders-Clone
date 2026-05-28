@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\use_ansi.obj",
+            "outputs": [
+                ".\\build\\intermediates\\use_ansi.h_840ADDFEF713C656.ifc.dt.module.json",
+                ".\\build\\intermediates\\use_ansi.h_840ADDFEF713C656.ifc.dt.d.json",
+                ".\\build\\intermediates\\use_ansi.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\use_ansi.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\use_ansi.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\string",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\yvals_core.h",
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\vcruntime.h",
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\sal.h",
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\concurrencysal.h",
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\vadefs.h",
+            "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xkeycheck.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xstring",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xstring_TVWVUW9C2BYJ6HLA.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\iosfwd",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\iosfwd_KI0KEX9119RKRG6Q.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdio",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cstdio_FDILLRGWHZLFAY6P.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstring",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cstring_K3SAIXAYGGCC3L97.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cwchar",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cwchar_GFULYD7WW6MUUB42.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xtr1common",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xtr1common_KGTLEX2DXRIBN4BX.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xmemory",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xmemory_IJIP74HY9UYO59W2.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdint",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cstdint_3CX729ZDRCC2M7Y4.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdlib",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cstdlib_3EBJBLTQ4QB9GP6P.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\limits",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\limits_XR8H6PPO06Y26QN9.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cfloat",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cfloat_MVQ5PISV3JP7WIL4.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\climits",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\climits_ZTMZ2HRZSM1F1TI7.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\new",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\new_1K8XLDNNDTWP8FYZ.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\exception",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\exception_W5QCRF6PFGG8WYX3.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\type_traits",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\type_traits_HVU3V2P2UUIV39AB.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstddef",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cstddef_WFNKGQEOFTFU4NNP.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\tuple",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\tuple_TVJWVCPIYZABGHVI.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\compare",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\compare_PGUE9UGME3WIPL50.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\concepts",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\concepts_98MR8W1CR0AC108W.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\__msvc_iter_core.hpp",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\__msvc_iter_core.hpp_AIHB8VTV5JA7HH5U.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\utility",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\utility_0IK430NJ5STMZMME.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\initializer_list",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\initializer_list_J0UAA90CM3GUROGK.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xatomic.h",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xatomic.h_T98VBH1LMCMABM87.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xutility",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xutility_T3SUY2ZBI18B3OQV.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xpolymorphic_allocator.h",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\xpolymorphic_allocator.h_ZOMII1GIP9T8220K.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\__msvc_sanitizer_annotate_container.hpp",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\__msvc_sanitizer_annotate_container.hpp_CN8YNGC7PTUV10DV.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\__msvc_string_view.hpp",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\__msvc_string_view.hpp_9WHZDZTJW0W00AAE.ifc"
+            },
+            {
+                "Header": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cctype",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\cctype_B12BM0OLRQADKZF5.ifc"
+            }
+        ]
+    }
+}

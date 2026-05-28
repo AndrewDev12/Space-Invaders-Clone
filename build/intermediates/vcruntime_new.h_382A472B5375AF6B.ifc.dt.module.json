@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\vcruntime_new.obj",
+            "outputs": [
+                ".\\build\\intermediates\\vcruntime_new.h_382A472B5375AF6B.ifc.dt.module.json",
+                ".\\build\\intermediates\\vcruntime_new.h_382A472B5375AF6B.ifc.dt.d.json",
+                ".\\build\\intermediates\\vcruntime_new.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\vcruntime_new.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\vcruntime_new.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

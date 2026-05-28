@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\ctime_4PR288505ZK5GDU7.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\ctime_4PR288505ZK5GDU7.module.json",
+                "x64\\Debug\\ctime_4PR288505ZK5GDU7.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\ctime",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\ctime",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

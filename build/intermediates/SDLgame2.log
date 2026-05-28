@@ -1,0 +1,11 @@
+﻿  Scanning sources for module dependencies...
+  Game.cpp
+  Compiling...
+  Game.cpp
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(43,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(83,17): warning C4244: 'initializing': conversion from 'Uint64' to 'float', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(140,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(150,32): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  SDLgame2.vcxproj -> D:\Visual Studio Solutions\SDLgame2\SDLgame2\build\SDLgame2.exe

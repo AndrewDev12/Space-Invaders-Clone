@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cwchar_GFULYD7WW6MUUB42.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\vc145.pdb",
+                ".\\build\\intermediates\\cwchar_GFULYD7WW6MUUB42.module.json",
+                ".\\build\\intermediates\\cwchar_GFULYD7WW6MUUB42.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cwchar",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cwchar",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdio",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdio",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

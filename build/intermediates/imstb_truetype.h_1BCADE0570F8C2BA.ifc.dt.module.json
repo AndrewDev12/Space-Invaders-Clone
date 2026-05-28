@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\imstb_truetype.obj",
+            "outputs": [
+                ".\\build\\intermediates\\imstb_truetype.h_1BCADE0570F8C2BA.ifc.dt.module.json",
+                ".\\build\\intermediates\\imstb_truetype.h_1BCADE0570F8C2BA.ifc.dt.d.json",
+                ".\\build\\intermediates\\imstb_truetype.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\imgui\\imstb_truetype.h",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\imgui\\imstb_truetype.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

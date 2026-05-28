@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cfloat.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cfloat_98AE24480C5A207C.ifc.dt.module.json",
+                ".\\build\\intermediates\\cfloat_98AE24480C5A207C.ifc.dt.d.json",
+                ".\\build\\intermediates\\cfloat.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cfloat",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cfloat",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

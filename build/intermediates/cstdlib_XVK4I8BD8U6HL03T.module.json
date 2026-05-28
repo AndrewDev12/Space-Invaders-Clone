@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdlib_XVK4I8BD8U6HL03T.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\vc145.pdb",
+                ".\\build\\intermediates\\cstdlib_XVK4I8BD8U6HL03T.module.json",
+                ".\\build\\intermediates\\cstdlib_XVK4I8BD8U6HL03T.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdlib",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdlib",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdlib.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstdlib_90E18C11B8D88B80.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstdlib_90E18C11B8D88B80.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstdlib.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cstdlib",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdlib",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\ammintrin.obj",
+            "outputs": [
+                ".\\build\\intermediates\\ammintrin.h_79C8F0358BC7B6E4.ifc.dt.module.json",
+                ".\\build\\intermediates\\ammintrin.h_79C8F0358BC7B6E4.ifc.dt.d.json",
+                ".\\build\\intermediates\\ammintrin.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\ammintrin.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\ammintrin.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

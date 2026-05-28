@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\ipp.obj",
+            "outputs": [
+                ".\\build\\intermediates\\ipp.h_75C2EA1024E0C4AC.ifc.dt.module.json",
+                ".\\build\\intermediates\\ipp.h_75C2EA1024E0C4AC.ifc.dt.d.json",
+                ".\\build\\intermediates\\ipp.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Intel oneAPI\\ipp\\2026.0\\include\\ipp\\ipp.h",
+                    "source-path": "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipp.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

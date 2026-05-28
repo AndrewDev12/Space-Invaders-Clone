@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_pixels.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_pixels.h_4F02236121321414.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_pixels.h_4F02236121321414.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_pixels.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_pixels.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_pixels.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

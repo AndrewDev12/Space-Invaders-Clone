@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xbit_ops.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xbit_ops.h_EC6E2F2D868673D.ifc.dt.module.json",
+                ".\\build\\intermediates\\xbit_ops.h_EC6E2F2D868673D.ifc.dt.d.json",
+                ".\\build\\intermediates\\xbit_ops.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\xbit_ops.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xbit_ops.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdint",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\cstdint",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

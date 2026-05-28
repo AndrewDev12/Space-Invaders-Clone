@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdlib.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstdlib_F981A2A98ECBF2F6.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstdlib_F981A2A98ECBF2F6.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstdlib.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cstdlib",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdlib",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

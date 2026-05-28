@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\modules\\std.compat.ixx",
+        "ProvidedModule": "std.compat",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "std",
+                "BMI": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\microsoft\\STL\\std.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

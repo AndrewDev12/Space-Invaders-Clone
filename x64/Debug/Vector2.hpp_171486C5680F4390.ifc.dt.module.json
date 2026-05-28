@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Vector2.obj",
+            "outputs": [
+                "x64\\Debug\\Vector2.hpp_171486C5680F4390.ifc.dt.module.json",
+                "x64\\Debug\\Vector2.hpp_171486C5680F4390.ifc.dt.d.json",
+                "x64\\Debug\\Vector2.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\src\\Vector2.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\src\\vector2.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+﻿  Scanning sources for module dependencies...
+  Enemy.cpp
+  std.compat.ixx
+  Overloads.cpp
+  Projectile.cpp
+  Window.cpp
+  std.ixx
+  AudioManager.cpp
+  Vector2.cpp
+  Player.cpp
+  main.cpp
+  Game.cpp
+  Text.cpp
+  __msvc_doom_core.hpp
+  unordered_map
+  cstdlib
+  xhash
+  cmath
+  xtr1common
+  xmemory
+  list
+  cstddef
+  type_traits
+  limits
+  cstdint
+  cfloat
+  climits
+  cstdio
+  exception
+  cwchar
+  new
+  xatomic.h
+  initializer_list
+  cstring
+  compare
+  utility
+  concepts
+  __msvc_iter_core.hpp
+  xutility
+  vector
+  __msvc_bit_utils.hpp
+  xpolymorphic_allocator.h
+  tuple
+  __msvc_sanitizer_annotate_container.hpp
+  __msvc_formatter.hpp
+  xbit_ops.h
+  xnode_handle.h
+  __msvc_heap_algorithms.hpp
+  __msvc_minmax.hpp
+  filesystem
+  algorithm
+  optional
+  __msvc_int128.hpp
+  xsmf_control.h
+  ratio
+  __msvc_chrono.hpp
+  chrono
+  ctime
+  xtimec.h
+  system_error
+  cerrno
+  __msvc_system_error_abi.hpp
+  stdexcept
+  xstring
+  __msvc_string_view.hpp
+  iosfwd
+  xcall_once.h
+  xerrc.h
+  xthreads.h
+  atomic
+  __msvc_threads_core.hpp
+  xatomic_wait.h
+  xfilesystem_abi.h
+  __msvc_tzdb.hpp
+  format
+  __msvc_format_ucd_tables.hpp
+  __msvc_print.hpp
+  __msvc_ranges_tuple_formatter.hpp
+  bit
+  iterator
+  xlocale
+  memory
+  typeinfo
+  xlocinfo
+  xfacet
+  __msvc_xlocinfo_types.hpp
+  cctype
+  charconv
+  clocale
+  xcharconv_ryu.h
+  xcharconv.h
+  xcharconv_ryu_tables.h
+  xcharconv_tables.h
+  locale
+  streambuf
+  xlocbuf
+  xiosbase
+  xlocmon
+  xlocmes
+  xlocnum
+  xloctime
+  forward_list
+  iomanip
+  istream
+  ios
+  __msvc_ostream.hpp
+  string
+  sstream
+  array
+  Compiling...
+  cstdio
+  ctime
+  __msvc_doom_core.hpp
+  xtr1common
+  cstring
+  climits
+  xerrc.h
+  cstdint
+  cerrno
+  cstdlib
+  __msvc_sanitizer_annotate_container.hpp
+  cfloat
+  xbit_ops.h
+  cctype
+  clocale
+  __msvc_bit_utils.hpp
+  xtimec.h
+  Overloads.cpp
+  std.ixx
+  xfacet
+  cstddef
+  __msvc_minmax.hpp
+  cwchar
+  __msvc_xlocinfo_types.hpp
+  xcharconv_ryu_tables.h
+  xcharconv_tables.h
+  limits
+  __msvc_system_error_abi.hpp
+  type_traits
+  iosfwd
+  std.compat.ixx
+  initializer_list
+  xatomic.h
+  concepts
+  xsmf_control.h
+  exception
+  ratio
+  cmath
+  bit
+  xcall_once.h
+  __msvc_threads_core.hpp
+  xfilesystem_abi.h
+  xcharconv.h
+  xatomic_wait.h
+  compare
+  new
+  typeinfo
+  __msvc_print.hpp
+  xthreads.h
+  Vector2.cpp
+  utility
+  __msvc_int128.hpp
+  atomic
+  __msvc_iter_core.hpp
+  __msvc_chrono.hpp
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:             T=int
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         ]
+      D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19):
+      the template instantiation context (the oldest one first) is
+          D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(144,29):
+          see reference to class template instantiation 'Vector2<int>' being compiled
+          D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(20,1):
+          while compiling class template member function 'T Vector2<T>::length(void)'
+          with
+          [
+              T=int
+          ]
+  
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:             T=short
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19): warning C4244:         ]
+      D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(21,19):
+      the template instantiation context (the oldest one first) is
+          D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(146,31):
+          see reference to class template instantiation 'Vector2<short>' being compiled
+          D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Vector2.cpp(20,1):
+          while compiling class template member function 'T Vector2<T>::length(void)'
+          with
+          [
+              T=short
+          ]
+  
+  xutility
+  tuple
+  __msvc_heap_algorithms.hpp
+  __msvc_tzdb.hpp
+  array
+  xcharconv_ryu.h
+  __msvc_formatter.hpp
+  __msvc_string_view.hpp
+  iterator
+  optional
+  xmemory
+  __msvc_format_ucd_tables.hpp
+  charconv
+  xnode_handle.h
+  memory
+  algorithm
+  xpolymorphic_allocator.h
+  list
+  xstring
+  vector
+  forward_list
+  main.cpp
+  xhash
+  string
+  xlocinfo
+  stdexcept
+  unordered_map
+  xlocale
+  Text.cpp
+  system_error
+  Window.cpp
+  Projectile.cpp
+  Game.cpp
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,58): warning C4244: 'argument': conversion from 'T' to 'Sint16', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,58): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,58): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,58): warning C4244:             T=float
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,58): warning C4244:         ]
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,49): warning C4244: 'argument': conversion from 'T' to 'Sint16', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,49): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,49): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,49): warning C4244:             T=float
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,49): warning C4244:         ]
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,40): warning C4244: 'argument': conversion from 'T' to 'Sint16', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,40): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,40): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,40): warning C4244:             T=float
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,40): warning C4244:         ]
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,31): warning C4244: 'argument': conversion from 'T' to 'Sint16', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,31): warning C4244:         with
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,31): warning C4244:         [
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,31): warning C4244:             T=float
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(30,31): warning C4244:         ]
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(125,20): warning C4244: 'initializing': conversion from 'Uint64' to 'float', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Window.cpp(128,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  __msvc_ranges_tuple_formatter.hpp
+  xiosbase
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(67,17): warning C4244: 'initializing': conversion from 'Uint64' to 'float', possible loss of data
+D:\Visual Studio Solutions\SDLgame2\SDLgame2\src\Game.cpp(130,32): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+  streambuf
+  xlocmes
+  xlocbuf
+  xlocnum
+  ios
+  xloctime
+  xlocmon
+  __msvc_ostream.hpp
+  locale
+  istream
+  format
+  iomanip
+  sstream
+  chrono
+  filesystem
+  Player.cpp
+  Enemy.cpp
+  AudioManager.cpp
+  SDLgame2.vcxproj -> D:\Visual Studio Solutions\SDLgame2\x64\Debug\SDLgame2.exe

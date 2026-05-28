@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\__msvc_xlocinfo_types.obj",
+            "outputs": [
+                "x64\\Debug\\__msvc_xlocinfo_types.hpp_A21C7E7DE9927585.ifc.dt.module.json",
+                "x64\\Debug\\__msvc_xlocinfo_types.hpp_A21C7E7DE9927585.ifc.dt.d.json",
+                "x64\\Debug\\__msvc_xlocinfo_types.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\__msvc_xlocinfo_types.hpp",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_xlocinfo_types.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

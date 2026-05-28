@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdlib_3EBJBLTQ4QB9GP6P.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\build\\intermediates\\vc145.pdb",
+                ".\\build\\intermediates\\cstdlib_3EBJBLTQ4QB9GP6P.module.json",
+                ".\\build\\intermediates\\cstdlib_3EBJBLTQ4QB9GP6P.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdlib",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdlib",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

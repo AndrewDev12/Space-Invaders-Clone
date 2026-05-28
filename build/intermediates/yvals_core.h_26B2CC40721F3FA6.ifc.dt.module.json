@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\yvals_core.obj",
+            "outputs": [
+                ".\\build\\intermediates\\yvals_core.h_26B2CC40721F3FA6.ifc.dt.module.json",
+                ".\\build\\intermediates\\yvals_core.h_26B2CC40721F3FA6.ifc.dt.d.json",
+                ".\\build\\intermediates\\yvals_core.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\yvals_core.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\yvals_core.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

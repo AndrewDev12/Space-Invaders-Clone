@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\mmintrin.obj",
+            "outputs": [
+                ".\\build\\intermediates\\mmintrin.h_32352BF4DD36BEC1.ifc.dt.module.json",
+                ".\\build\\intermediates\\mmintrin.h_32352BF4DD36BEC1.ifc.dt.d.json",
+                ".\\build\\intermediates\\mmintrin.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\mmintrin.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\mmintrin.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

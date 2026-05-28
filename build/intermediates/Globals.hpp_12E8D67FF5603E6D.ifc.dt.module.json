@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\Globals.obj",
+            "outputs": [
+                ".\\build\\intermediates\\Globals.hpp_12E8D67FF5603E6D.ifc.dt.module.json",
+                ".\\build\\intermediates\\Globals.hpp_12E8D67FF5603E6D.ifc.dt.d.json",
+                ".\\build\\intermediates\\Globals.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\Globals.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\globals.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

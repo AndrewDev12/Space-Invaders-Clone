@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdint.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstdint_12E50FA99D01DB60.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstdint_12E50FA99D01DB60.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstdint.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cstdint",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdint",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

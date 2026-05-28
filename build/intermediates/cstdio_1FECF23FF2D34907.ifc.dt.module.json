@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstdio.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstdio_1FECF23FF2D34907.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstdio_1FECF23FF2D34907.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstdio.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\cstdio",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\cstdio",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

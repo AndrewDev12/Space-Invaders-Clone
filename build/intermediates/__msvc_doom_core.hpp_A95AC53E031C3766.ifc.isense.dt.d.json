@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\__msvc_doom_core.hpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\yvals_core.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\vcruntime.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\sal.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\concurrencysal.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\vadefs.h",
+            "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\xkeycheck.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

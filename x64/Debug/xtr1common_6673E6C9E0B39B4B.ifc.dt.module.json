@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\xtr1common.obj",
+            "outputs": [
+                "x64\\Debug\\xtr1common_6673E6C9E0B39B4B.ifc.dt.module.json",
+                "x64\\Debug\\xtr1common_6673E6C9E0B39B4B.ifc.dt.d.json",
+                "x64\\Debug\\xtr1common.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\xtr1common",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xtr1common",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

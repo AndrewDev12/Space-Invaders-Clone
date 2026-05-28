@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\ymath.obj",
+            "outputs": [
+                ".\\build\\intermediates\\ymath.h_69F423453DE027C2.ifc.dt.module.json",
+                ".\\build\\intermediates\\ymath.h_69F423453DE027C2.ifc.dt.d.json",
+                ".\\build\\intermediates\\ymath.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\ymath.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\ymath.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

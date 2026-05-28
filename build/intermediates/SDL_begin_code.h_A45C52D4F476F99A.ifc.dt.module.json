@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_begin_code.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_begin_code.h_A45C52D4F476F99A.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_begin_code.h_A45C52D4F476F99A.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_begin_code.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_begin_code.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_begin_code.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

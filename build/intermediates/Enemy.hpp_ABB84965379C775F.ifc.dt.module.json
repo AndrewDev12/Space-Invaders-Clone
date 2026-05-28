@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\Enemy.obj",
+            "outputs": [
+                ".\\build\\intermediates\\Enemy.hpp_ABB84965379C775F.ifc.dt.module.json",
+                ".\\build\\intermediates\\Enemy.hpp_ABB84965379C775F.ifc.dt.d.json",
+                ".\\build\\intermediates\\Enemy.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\src\\Enemy.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\src\\enemy.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\cerrno.obj",
+            "outputs": [
+                "x64\\Debug\\cerrno_1199A11F4B3A5094.ifc.dt.module.json",
+                "x64\\Debug\\cerrno_1199A11F4B3A5094.ifc.dt.d.json",
+                "x64\\Debug\\cerrno.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\cerrno",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cerrno",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

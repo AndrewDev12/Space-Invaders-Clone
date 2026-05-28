@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\ctime.obj",
+            "outputs": [
+                ".\\build\\intermediates\\ctime_EE3148FFCCD18495.ifc.dt.module.json",
+                ".\\build\\intermediates\\ctime_EE3148FFCCD18495.ifc.dt.d.json",
+                ".\\build\\intermediates\\ctime.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\ctime",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\ctime",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

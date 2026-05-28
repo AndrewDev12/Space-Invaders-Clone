@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\sal.obj",
+            "outputs": [
+                ".\\build\\intermediates\\sal.h_DF85D31EA3FAA9D7.ifc.dt.module.json",
+                ".\\build\\intermediates\\sal.h_DF85D31EA3FAA9D7.ifc.dt.d.json",
+                ".\\build\\intermediates\\sal.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\sal.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\sal.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

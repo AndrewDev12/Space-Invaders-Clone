@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\Overloads.obj",
+            "outputs": [
+                ".\\build\\intermediates\\Overloads.cpp.ifc.dt.module.json",
+                ".\\build\\intermediates\\Overloads.cpp.ifc.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_image.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_image.h_497D59C7CE460C12.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_image.h_497D59C7CE460C12.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_image.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_image.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_image.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

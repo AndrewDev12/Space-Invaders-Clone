@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\__msvc_xlocinfo_types.hpp_WZOUL1XQESVO52IF.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\__msvc_xlocinfo_types.hpp_WZOUL1XQESVO52IF.module.json",
+                "x64\\Debug\\__msvc_xlocinfo_types.hpp_WZOUL1XQESVO52IF.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_xlocinfo_types.hpp",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_xlocinfo_types.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

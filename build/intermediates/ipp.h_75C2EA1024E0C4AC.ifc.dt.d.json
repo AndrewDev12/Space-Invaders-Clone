@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipp.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippversion.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippdefs.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippbase.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipptypes.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcore.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcore_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippdefs_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipptypes_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcc.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcc_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippdc.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcv.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippcv_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippdefs_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippi.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippi_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippe.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipps.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ipps_l.h",
+            "d:\\intel oneapi\\ipp\\2026.0\\include\\ipp\\ippvm.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

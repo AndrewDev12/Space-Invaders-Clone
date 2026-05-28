@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\InputState.obj",
+            "outputs": [
+                ".\\build\\intermediates\\InputState.hpp_443572793AEDE6AE.ifc.dt.module.json",
+                ".\\build\\intermediates\\InputState.hpp_443572793AEDE6AE.ifc.dt.d.json",
+                ".\\build\\intermediates\\InputState.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\InputState.hpp",
+                    "source-path": "d:\\visual studio solutions\\sdlgame2\\sdlgame2\\inputstate.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

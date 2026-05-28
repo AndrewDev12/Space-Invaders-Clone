@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\__msvc_minmax.obj",
+            "outputs": [
+                ".\\build\\intermediates\\__msvc_minmax.hpp_5C1DD68D8D63496B.ifc.dt.module.json",
+                ".\\build\\intermediates\\__msvc_minmax.hpp_5C1DD68D8D63496B.ifc.dt.d.json",
+                ".\\build\\intermediates\\__msvc_minmax.hpp.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\__msvc_minmax.hpp",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\__msvc_minmax.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdint",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\cstdint",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

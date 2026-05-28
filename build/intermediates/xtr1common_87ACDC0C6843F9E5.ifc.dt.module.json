@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xtr1common.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xtr1common_87ACDC0C6843F9E5.ifc.dt.module.json",
+                ".\\build\\intermediates\\xtr1common_87ACDC0C6843F9E5.ifc.dt.d.json",
+                ".\\build\\intermediates\\xtr1common.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio 2026 Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\include\\xtr1common",
+                    "source-path": "d:\\programs\\visual studio 2026 enterprise\\vc\\tools\\msvc\\14.50.35717\\include\\xtr1common",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

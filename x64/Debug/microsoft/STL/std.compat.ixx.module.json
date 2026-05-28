@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\microsoft/STL\\std.compat.ixx.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\microsoft/STL\\",
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\microsoft\\STL\\std.compat.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std.compat",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\modules\\std.compat.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

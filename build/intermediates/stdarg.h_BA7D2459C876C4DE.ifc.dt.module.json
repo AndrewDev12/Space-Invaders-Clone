@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\stdarg.obj",
+            "outputs": [
+                ".\\build\\intermediates\\stdarg.h_BA7D2459C876C4DE.ifc.dt.module.json",
+                ".\\build\\intermediates\\stdarg.h_BA7D2459C876C4DE.ifc.dt.d.json",
+                ".\\build\\intermediates\\stdarg.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\stdarg.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\stdarg.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

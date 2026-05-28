@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\xfacet.obj",
+            "outputs": [
+                ".\\build\\intermediates\\xfacet_147DEC8D377FB6C4.ifc.dt.module.json",
+                ".\\build\\intermediates\\xfacet_147DEC8D377FB6C4.ifc.dt.d.json",
+                ".\\build\\intermediates\\xfacet.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.51.36231\\include\\xfacet",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xfacet",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

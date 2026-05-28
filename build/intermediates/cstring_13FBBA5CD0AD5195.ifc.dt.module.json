@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\cstring.obj",
+            "outputs": [
+                ".\\build\\intermediates\\cstring_13FBBA5CD0AD5195.ifc.dt.module.json",
+                ".\\build\\intermediates\\cstring_13FBBA5CD0AD5195.ifc.dt.d.json",
+                ".\\build\\intermediates\\cstring.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\cstring",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\cstring",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

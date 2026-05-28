@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_platform.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_platform_defines.h",
+            "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_begin_code.h",
+            "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_close_code.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_rect.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_rect.h_4DB5EB6F51258F3F.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_rect.h_4DB5EB6F51258F3F.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_rect.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_rect.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_rect.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

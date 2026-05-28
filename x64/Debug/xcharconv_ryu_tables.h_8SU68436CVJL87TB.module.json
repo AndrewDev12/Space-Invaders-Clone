@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\xcharconv_ryu_tables.h_8SU68436CVJL87TB.obj",
+            "outputs": [
+                "D:\\Visual Studio Solutions\\SDLgame2\\SDLgame2\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\xcharconv_ryu_tables.h_8SU68436CVJL87TB.module.json",
+                "x64\\Debug\\xcharconv_ryu_tables.h_8SU68436CVJL87TB.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xcharconv_ryu_tables.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\xcharconv_ryu_tables.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cstdint",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.51.36231\\include\\cstdint",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

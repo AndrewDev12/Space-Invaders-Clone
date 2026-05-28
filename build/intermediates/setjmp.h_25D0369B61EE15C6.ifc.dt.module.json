@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\setjmp.obj",
+            "outputs": [
+                ".\\build\\intermediates\\setjmp.h_25D0369B61EE15C6.ifc.dt.module.json",
+                ".\\build\\intermediates\\setjmp.h_25D0369B61EE15C6.ifc.dt.d.json",
+                ".\\build\\intermediates\\setjmp.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\setjmp.h",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\setjmp.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

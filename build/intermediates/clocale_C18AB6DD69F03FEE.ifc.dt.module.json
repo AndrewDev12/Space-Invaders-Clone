@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\clocale.obj",
+            "outputs": [
+                ".\\build\\intermediates\\clocale_C18AB6DD69F03FEE.ifc.dt.module.json",
+                ".\\build\\intermediates\\clocale_C18AB6DD69F03FEE.ifc.dt.d.json",
+                ".\\build\\intermediates\\clocale.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Programs\\Visual Studio\\VC\\Tools\\MSVC\\14.52.36328\\include\\clocale",
+                    "source-path": "d:\\programs\\visual studio\\vc\\tools\\msvc\\14.52.36328\\include\\clocale",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

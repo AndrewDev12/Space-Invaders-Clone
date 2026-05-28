@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\build\\intermediates\\SDL_main.obj",
+            "outputs": [
+                ".\\build\\intermediates\\SDL_main.h_35C0D974AC049868.ifc.dt.module.json",
+                ".\\build\\intermediates\\SDL_main.h_35C0D974AC049868.ifc.dt.d.json",
+                ".\\build\\intermediates\\SDL_main.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\C++Libraries\\SDL3-3.4.0\\include\\SDL3\\SDL_main.h",
+                    "source-path": "d:\\c++libraries\\sdl3-3.4.0\\include\\sdl3\\sdl_main.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
